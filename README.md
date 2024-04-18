@@ -1,4 +1,5 @@
-Стартовый шаблон Next.js
+Обновление Readme в Replit
+
 ## Getting Started
 
 Hit the run button to start the development server.
