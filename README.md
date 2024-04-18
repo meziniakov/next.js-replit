@@ -1,4 +1,3 @@
-
 Обновление Readme в Replit
 
 ## Getting Started
