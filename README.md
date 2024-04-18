@@ -1,4 +1,5 @@
-Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
+
+Обновление Readme в Replit
 
 ## Getting Started
 
